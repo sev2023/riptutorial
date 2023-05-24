@@ -15,3 +15,6 @@ $ yum-config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce
 $
 $ yum install iputils procps
 ```
+
+# pcap  
+https://sev2023.github.io/images/traffic.png   
