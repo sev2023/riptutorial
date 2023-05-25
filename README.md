@@ -13,7 +13,7 @@
 $ yum install -y yum-utils
 $ yum-config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce.repo
 $
-$ yum install iputils procps net-tools pip tree netcat crontab
+$ yum install iputils procps net-tools pip tree netcat crontab jq
 ```
 
 # pcap  
