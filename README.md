@@ -17,4 +17,4 @@ $ yum install iputils procps net-tools pip tree netcat crontab jq
 ```
 
 # pcap  
-https://sev2023.github.io/images/traffic.png   
+https://sev2023.github.io/images/traffic.png   // no longer works
