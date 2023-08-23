@@ -26,4 +26,11 @@ aws s3 cp s3://mybucket/test.pcap test2.pcap
 ```
 (function diy(x){setTimeout(diy, 1000, x+1); console.log("counting: ", x)})(1)
 ```
-(function definition in parenasis + argument)
+(function definition in parenasis + argument)  
+- or -
+```
+function diy(){setTimeout(diy, 1000); console.log(Date.now())}
+diy()
+```
+
+
